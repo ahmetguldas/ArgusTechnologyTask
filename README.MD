@@ -1,3 +1,6 @@
 # Argus Technology 
-Net Core Web Api 
-Angular
+
+## Net Core Wep Api and Angular
+![NetCore-Angular](https://i.hizliresim.com/jyx5fxj.png)
+
+
